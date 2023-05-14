@@ -1,0 +1,4 @@
+[submodule "thirdparty"]
+	path = thirdparty
+	url = git@gitlab.com:cs4351/thirdparty
+
